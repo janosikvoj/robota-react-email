@@ -39,7 +39,7 @@ export const RobotaEmailSignature = () => (
         <Container className="bg-[white] px-3">
           <Section>
             <Img
-              src={`${baseUrl}/static/robota-logo.png`}
+              src={`${baseUrl}/static/robota-logo.jpg`}
               alt="Robota"
               width="247"
               height="130"
